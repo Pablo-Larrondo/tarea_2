@@ -1,0 +1,104 @@
+header {
+    background-image: url(../img/foto-3.JPG);
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 350px;
+    text-align: center;
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 5px;
+}
+
+.titulo {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left: 100px;
+}
+
+
+.producto_1 {
+
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+
+}
+
+.cuadro {
+
+    height: 360px;
+    width: 475px;
+    margin: 100px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.presio {
+
+    font-size: 25px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    height: 200px;
+    margin-top: 130px;
+
+}
+
+.cuadro2 {
+
+    height: 480px;
+    width: 380px;
+    margin: 100px;
+    padding: 10px;
+    margin: 10px;
+
+}
+
+.presio2 {
+
+    font-size: 25px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    height: 200px;
+    margin-top: 180px;
+
+}
+
+.cuadro3 {
+
+    height: 410px;
+    width: 530px;
+    margin: 100px;
+    padding: 10px;
+    margin: 10px;
+
+
+}
+
+.presio3 {
+
+    font-size: 25px;
+    width: 400px;
+    padding: 10px;
+    text-align: center;
+    height: 200px;
+    margin-top: 160px;
+
+}
+
+.info {
+    font-size: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+h3 {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+x
